@@ -1,0 +1,16 @@
+{
+  "name": "lamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "maximiliano <maximiliano.echevarria>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "ts-node": "^10.2.1"
+  }
+}
