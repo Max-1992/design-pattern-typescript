@@ -1,0 +1,16 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "ts-node": "^10.2.1"
+  },
+  "keywords": [],
+  "author": "maximiliano <maximiliano.echevarria>",
+  "license": "MIT"
+}
